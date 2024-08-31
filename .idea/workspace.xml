@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5058a28c-a415-49b4-8dd1-84c7bafa70f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/戏剧.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/fontawesome-free-6.0.0-beta1-web.zip.xltd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/css/fontawesome-free-6.0.0-beta1-web.zip.xltd.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/fonts/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/holder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/jQuery3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/jquery-3.5.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fankui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/feedback1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/history.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jianshang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/juese.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/juzhong.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/puse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pushi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/shipin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/shopping.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/xiquxinshang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/active.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/activity1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/activity2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/activity3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/fankui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/feedback1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/jianshang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/juese.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/juzhong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/puse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/pushi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/shipin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/xiquxinshang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1 (7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1 (9).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1117.png_860.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_20211223_095604.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_20211223_131438.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/OIP-C (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/OIP-C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/QQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/QQ20211223000747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/R-C (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/R-C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VCG2218377714.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VCG42145725653.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VCG42145820390.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VCG42461025046.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VCG42472888985.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VCG42472889147.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VCG42N1226375851.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VCG42N936809416.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/activity1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/activity2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/biohazard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/changcheng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dongman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/end2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/guochao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img-activity10-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img-activity12-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img-activity9-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ios-photos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lianpu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lianpu1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lianpu2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/liuyong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lunbo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lunbo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/media.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mogaoku.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mudanting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/muguiying.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/qijiguang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/venn-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wangbaochuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/xq1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/xq1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/丑.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/丑2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/东方.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/九重天.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/京剧1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/京剧2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/京剧3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/佳楠.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/兔子_rabbit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/内部1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/内部1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/内部2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/内部2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/内部3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/内部4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/内部5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/内部6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/净.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/凤冠.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/剧种介绍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/华容道.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/大图1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/大图2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/大型视频.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/头部.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/寿.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/屏幕截图 2024-08-22 140555.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/川剧1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/川剧2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/川剧3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/已1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/已2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/已3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/已4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/底纹2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/戏曲1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/戏曲2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/戏曲3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/戏曲4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/戏曲5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/戏曲6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/戏曲7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/戏曲8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/文化2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/旦.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/末.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/活动页顶部图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/游记3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/游记3_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/熊_bear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/狗_dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/猪_pig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/猴_monkey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/生.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/白脸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/编钟.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/角色介绍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/豫剧1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/豫剧2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/豫剧3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/鹿_deer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2l3rlKjlBocTyPoL4gkXr0Mowqj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript 调试.active.html.executor": "Run",
+    "JavaScript 调试.activity1.html.executor": "Run",
+    "JavaScript 调试.activity2.html.executor": "Run",
+    "JavaScript 调试.activity3.html.executor": "Run",
+    "JavaScript 调试.index.html.executor": "Run",
+    "JavaScript 调试.puse.html.executor": "Run",
+    "JavaScript 调试.pushi.html.executor": "Run",
+    "JavaScript 调试.xiquxinshang.html.executor": "Run",
+    "JavaScript 调试.注册.html.executor": "Run",
+    "Node.js.bootstrap.bundle.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5058a28c-a415-49b4-8dd1-84c7bafa70f0" name="Changes" comment="" />
+      <created>1724419750792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724419750792</updated>
+      <workItem from="1724419751867" duration="1342000" />
+      <workItem from="1724453914757" duration="1533000" />
+      <workItem from="1724506956360" duration="17000" />
+      <workItem from="1724565621213" duration="45000" />
+      <workItem from="1724565736876" duration="213000" />
+      <workItem from="1724566272930" duration="145000" />
+      <workItem from="1724566465165" duration="846000" />
+      <workItem from="1724934520663" duration="4507000" />
+      <workItem from="1725068586085" duration="1502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

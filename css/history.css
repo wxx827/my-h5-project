@@ -1,0 +1,114 @@
+a {
+    color: #f6f8f9;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f6f8f9;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.dropdown-item {
+    color: #f6f8f9;
+}
+
+body {
+    background: url(../img/底纹2.jpg) 0% 0% / cover no-repeat;
+}
+
+@font-face {
+    font-family: 'YourWebFontName';
+    src: url('fonts/HuXiaobomaleDivineBody.otf');
+}
+
+@font-face {
+    font-family: 'youshe';
+    src: url('fonts/OptimizedTitleBlack.ttf');
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 60%;
+}
+
+.my-navbar {
+    padding: 10px;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    background-color: #0e0c0c;
+    opacity: 0.50;
+}
+
+.my-navbar a {
+    background: transparent !important;
+    /* color: #fff !important */
+}
+
+.my-navbar a:hover {
+    color: #45bcf9 !important;
+    background: transparent;
+    outline: 0
+}
+
+.my-navbar a {
+    transition: color 0.5s ease-in-out;
+}
+
+.top-nav {
+    padding: 10px 5px;
+    background: #09090a;
+    opacity: 1;
+}
+
+button.navbar-toggle {
+    background-color: #fbfbfb;
+}
+
+button.navbar-toggle>span.icon-bar {
+    background-color: #dedede
+}
+
+*/ .my-relative {
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+    margin-top: 0px;
+    margin-right: 300px;
+    /* 相对定位，相对正常位置 */
+    position: relative;
+    top: 100px;
+    left: 80px;
+}
+
+.my-absolute {
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+    /* 绝对定位，相对于static定位以外的第一个父级元素定位 */
+    /* 本例子中，my-relative 是第一个父级元素 */
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+
+.text {
+    margin-right: 10px;
+    margin-top: 200px;
+    padding-left: 80px;
+}
+
+.doo {
+    -webkit-box-shadow: 2px 8px 30px -10px rgba(0, 0, 0, .3);
+    box-shadow: 2px 8px 30px -10px rgba(0, 0, 0, .3);
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 30px 0px;
+    color: white;
+    font-size: 12px;
+    line-height: 20PX;
+    background: url(../img/end2.jpg);
+    background-size: cover;
+}

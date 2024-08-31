@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>戏曲欣赏</title>
+  <link href="../bs/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../bs/font-awesome-4.7.0/fonts/bootstrap-icons.css">
+  <link rel="stylesheet" href="../bs/font-awesome-4.7.0/css/font-awesome.css">
+  <link rel="stylesheet" href="../bs/css/buttons.css">
+  <script src="../bs/js/jQuery3.4.1.js"></script>
+  <script src="../bs/js/popper.min.js"></script>
+  <script src="../bs/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="../css/xiquxinshang.css">
+  <link rel="icon" href="../img/1117.png_860.png">
+
+  <!-- 添加自定义CSS -->
+  <style>
+    /* 更改导航栏文字颜色 */
+    .navbar-dark .navbar-nav .nav-link {
+      color: #FFD700; /* 金色 */
+    }
+
+    /* 更改主标题颜色 */
+    .jumbotron h1 {
+      color: #FF4500; /* 橙红色 */
+    }
+
+    /* 更改段落文字颜色 */
+    .jumbotron p {
+      color: #FFFFFF; /* 白色 */
+    }
+
+    /* 更改按钮文字颜色 */
+    .btn-primary {
+      background-color: #FF6347; /* 番茄色 */
+      border-color: #FF6347;
+    }
+
+    /* 更改折叠面板按钮文字颜色 */
+    .btn-link {
+      color: #4682B4; /* 钢蓝色 */
+    }
+
+    /* 更改折叠面板内容文字颜色 */
+    .card-body {
+      color: #696969; /* 深灰色 */
+    }
+  </style>
+</head>
+
+<body>
+  <!-- 导航栏 -->
+  <div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
+      <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <div class="btn-group">
+                <button class="btn btn-danger btn-info" type="button">
+                  <a href="../index.html">首页</a>
+                </button>
+            </li>
+
+            <li class="nav-item dropdown">
+              <div class="btn-group">
+                <button class="btn btn-danger btn-info" type="button">
+                  <a href="puse.html">脸谱介绍</a>
+                </button>
+                <button type="button" class="btn btn-sm btn-danger dropdown-toggle dropdown-toggle-split"
+                  data-toggle="dropdown">
+                </button>
+                <div class="dropdown-menu bg-danger">
+                  <a class="dropdown-item bg-danger" href="pushi.html">谱式分类</a>
+                  <a class="dropdown-item bg-danger" href="puse.html">谱色介绍</a>
+                </div>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <div class="btn-group">
+                <button class="btn btn-danger btn-info" type="button">
+                  <a href="active.html">活动页面</a>
+                </button>
+                <button type="button" class="btn btn-sm btn-danger dropdown-toggle dropdown-toggle-split"
+                  data-toggle="dropdown">
+                </button>
+                <div class="dropdown-menu bg-danger">
+                  <a class="dropdown-item bg-danger" href="activity1.html">戏曲邂逅</a>
+                  <a class="dropdown-item bg-danger" href="html/activity2.html">桥·家乡的归途</a>
+                  <a class="dropdown-item bg-danger" href="html/activity3.html">梨园春争霸</a>
+
+                </div>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <div class="btn-group">
+                <button class="btn btn-danger btn-info" type="button">
+                  <a href="jianshang.html">戏曲鉴赏</a>
+                </button>
+                <button type="button" class="btn btn-sm btn-danger dropdown-toggle dropdown-toggle-split"
+                  data-toggle="dropdown">
+                </button>
+                <div class="dropdown-menu bg-danger">
+                  <a class="dropdown-item bg-danger" href="jianshang.html">戏曲鉴赏</a>
+                  <a class="dropdown-item bg-danger" href="xiquxinshang.html">戏曲欣赏</a>
+                  <a class="dropdown-item bg-danger" href="shipin.html">视频展示</a>
+
+                </div>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+
+            </li>
+            <li class="nav-item">
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+
+  <div class="jumbotron">
+    <h1>戏曲欣赏</h1>
+    <p>这里是戏曲爱好者的天堂，欢迎大家来分享我们的乐趣!
+    <p>下面是我们为大家推荐的一些精彩戏曲作品，快来看看吧！</p>
+    <a class="btn btn-primary btn-lg" href="shipin.html" role="button">点击这里</a>
+  </div>
+  <h1 style="text-align: center;">戏曲片段</h1>
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h2 class="mb-0">
+          <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse"
+            data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            京剧·《锁麟囊》
+          </button>
+        </h2>
+      </div>
+
+      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          我只道铁富贵一生铸定，又谁知人生数顷刻分明。
+          <br><br>
+          想当年我也曾撒娇使性，到今朝哪怕我不悔前尘。
+          <br><br>
+          这也是老天爷一番教训，他教我，收余恨、免娇嗔、且自新、改性情，休恋逝水，苦海回身，早悟兰因。
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingTwo">
+        <h2 class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+            data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            京剧·《生死恨》
+          </button>
+        </h2>
+      </div>
+      <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+        <div class="card-body">
+          说什么花好月圆人亦寿，山河万里几多愁。
+          <br><br>
+          胡儿铁骑豺狼寇，他那里饮马黄河血染流。
+          <br><br>
+          尝胆卧薪全忍受，从来强项不低头。
+          <br><br>
+          思悠悠来恨悠悠，故国月明在哪一州。
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingThree">
+        <h2 class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+            data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            京剧·《野猪林》
+          </button>
+        </h2>
+      </div>
+      <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+        <div class="card-body">
+          大雪飘，扑人面，朔风阵阵透骨寒。
+          <br><br>
+          彤云低锁山河暗，疏林冷落尽凋残。
+          <br><br>
+          往事萦怀难排遣，荒村沽酒慰愁烦。
+          <br><br>
+          望家乡，去路远，别妻千里音书断，关山阻隔两心悬。
+          <br><br>
+          讲什么雄心欲把星河挽，空怀雪刃未除奸。
+          <br><br>
+          叹英雄生死离别遭危难，满怀激愤问苍天。
+          <br><br>
+          问苍天万里关山何日返？
+          <br><br>
+          问苍天缺月儿何时再团圆？
+          <br><br>
+          问苍天何日里重挥三尺剑？
+          <br><br>
+          诛尽奸贼庙堂宽。
+          <br><br>
+          壮怀得舒展，贼头祭龙泉。
+          <br><br>
+          却为何天颜遍堆愁和怨？
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingFour">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+          data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          京剧·《霸王别姬》
+        </button>
+      </h2>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
+        力拔山兮气盖世，时不利兮骓不逝。
+        <br><br>
+        骓不逝兮可奈何，虞兮虞兮奈若何。
+        <br><br>
+        长天漫漫恨无边，叹英雄气短泪潸然。
+        <br><br>
+        流光易逝太匆匆，怎奈何，怎奈何，昔日风云何处寻？
+      </div>
+    </div>
+  </div>
+  <div class="card">
+  <div class="card-header" id="headingFive">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        京剧·《贵妃醉酒》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+    <div class="card-body">
+      海岛冰轮初转腾，见玉兔，玉兔又早东升。
+      <br><br>
+      那冰轮离海岛，乾坤分外明。
+      <br><br>
+      安排下云楼会宴，饮千钟，千钟美酒难醒。
+      <br><br>
+      美酒斟满玉壶，玉壶美酒再斟。
+      <br><br>
+      姊妹们，筵前献寿，我举杯，笑呵呵，再不饮。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingSix">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+        京剧·《红灯记》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+    <div class="card-body">
+      临行喝妈一碗酒，浑身是胆雄赳赳。
+      <br><br>
+      红灯高举映照着中华门，心头燃烧起愤怒的火焰。
+      <br><br>
+      老娘别哭别泪流，儿去杀敌保家门。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingSeven">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+        京剧·《大唐贵妃》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+    <div class="card-body">
+      月色撩人夜不寐，情思如潮涌心怀。
+      <br><br>
+      想当年，金戈铁马，我与君携手并肩行。
+      <br><br>
+      万里山河，千里共婵娟，一片痴心向月开。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingEight">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+        京剧·《西厢记》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
+    <div class="card-body">
+      花间一壶酒，独酌无相亲。
+      <br><br>
+      举杯邀明月，对影成三人。
+      <br><br>
+      月既不解饮，影徒随我身。
+      <br><br>
+      暂伴月将影，行乐须及春。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingNine">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+        京剧·《白蛇传》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionExample">
+    <div class="card-body">
+      满堂灌醉中山狼，举杯邀月饮孤光。
+      <br><br>
+      杯中影照颜如玉，雪满山川梦自长。
+      <br><br>
+      为救许郎赴水府，百折千回不畏难。
+      <br><br>
+      情深义重心如铁，誓将鸳鸯再成双。
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="card-header" id="headingTen">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+        京剧·《穆桂英挂帅》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionExample">
+    <div class="card-body">
+      我主爷诏我上金殿，老娘我一面把旨言。
+      <br><br>
+      想当年杨家将北拒西番，出征沙场把敌歼。
+      <br><br>
+      我穆桂英虽是女流，胸中自有安邦志。
+      <br><br>
+      率领三军扫胡尘，保我中华乾坤定。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingEleven">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+        京剧·《杨门女将》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordionExample">
+    <div class="card-body">
+      朝霞满天映红日，杨门女将舞清风。
+      <br><br>
+      女儿心中有壮志，保家卫国建奇功。
+      <br><br>
+      血染沙场无所惧，誓为家国抛头颅。
+      <br><br>
+      心如铁，志如钢，杨门巾帼显威扬！
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingTwelve">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+        京剧·《四郎探母》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionExample">
+    <div class="card-body">
+      一轮明月照西楼，照得孩儿泪长流。
+      <br><br>
+      四郎探母泪涟涟，难抛家国事牵愁。
+      <br><br>
+      抛却家仇心不忍，忠孝两难分明难。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingThirteen">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+        京剧·《霸王别姬》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseThirteen" class="collapse" aria-labelledby="headingThirteen" data-parent="#accordionExample">
+    <div class="card-body">
+      力拔山兮气盖世，时不利兮骓不逝。
+      <br><br>
+      骓不逝兮可奈何，虞兮虞兮奈若何。
+      <br><br>
+      长天漫漫恨无边，叹英雄气短泪潸然。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingFourteen">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+        京剧·《桃花扇》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseFourteen" class="collapse" aria-labelledby="headingFourteen" data-parent="#accordionExample">
+    <div class="card-body">
+      桃花扇底清风起，霜叶红于二月花。
+      <br><br>
+      风流才子悲歌起，壮志未酬徒嗟叹。
+      <br><br>
+      桃花扇底春已尽，故人西辞黄鹤楼。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingSixteen">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+        京剧·《红鬃烈马》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseSixteen" class="collapse" aria-labelledby="headingSixteen" data-parent="#accordionExample">
+    <div class="card-body">
+      红鬃烈马别太行，佳人挥泪别郎君。
+      <br><br>
+      百战沙场踏铁衣，长枪一挥千军惊。
+      <br><br>
+      妻儿盼君早回还，不辞寒暑战边关。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingSeventeen">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
+        京剧·《凤还巢》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseSeventeen" class="collapse" aria-labelledby="headingSeventeen" data-parent="#accordionExample">
+    <div class="card-body">
+      一朝凤还巢，家国两无忧。
+      <br><br>
+      心中自有天高地，愿为君王展鸿猷。
+      <br><br>
+      雄心未泯燕南归，白发犹记旧日愁。
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header" id="headingEighteen">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
+        京剧·《长坂坡》
+      </button>
+    </h2>
+  </div>
+  <div id="collapseEighteen" class="collapse" aria-labelledby="headingEighteen" data-parent="#accordionExample">
+    <div class="card-body">
+      长坂坡前寒风起，关公挥刀斩敌军。
+      <br><br>
+      一身正气英雄胆，千军万马难挡前。
+      <br><br>
+      忠心护主无怨悔，千里单骑未曾还。
+    </div>
+  </div>
+</div>
+
+
+  <script>
+    $(document).ready(function () {
+      // 当点击按钮时显示模态框
+      $('#login-btn').click(function () {
+        $('#login-modal').modal('show');
+      });
+    });
+  </script>
+</body>
+
+</html>
